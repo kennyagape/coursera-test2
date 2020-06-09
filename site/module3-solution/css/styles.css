@@ -2,14 +2,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: pink;
+    background-color: #599e4b;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: yellow;
+    background-color: #c98715;
     border-radius: 0;
     border: 0;
 }
@@ -18,8 +18,8 @@ body {
     margin-top: 22px;
 }
 
-.navbar-default .navbar-toggle:.focus, .navbar-default .navbar-toggle:hover {
-    background-color: blue;
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fce29e;
 }
 
 .navbar-collapse {
@@ -39,13 +39,13 @@ body {
     font-size: 1.8em;
 }
 
-.navbar-brand a:.hover {
+.navbar-brand a:hover {
     text-decoration: none;
     text-shadow: 1px 1px 1px #fe9797;
 }
 
 #nav-list {
-    background-color: grey;
+    background-color: #e4af34;
 }
 
 #nav-list a {
@@ -55,7 +55,7 @@ body {
     font-size: 1.2em;
 }
 
-#nav-list a:.hover {
+#nav-list a:hover {
     color: #202020;
     background-color: #fce29e;
 }
@@ -91,8 +91,10 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: silver;
+    background-color: #99ed7b;
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
 
+
+/** END HOME PAGE **/
